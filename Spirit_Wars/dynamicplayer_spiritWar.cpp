@@ -31,7 +31,7 @@ int main()
 
     int PLAYERLIVES = 1;
     int PLAYERNAME = 0;
-    /*
+    
     player player1;
     player player2;
 
@@ -40,7 +40,7 @@ int main()
 
     player1.charges = 0;
     player2.charges = 0;
-*/
+
 
     cout << "Welcome to the Spirit War.\n \n";
     cout << " The Rules:" << endl << "You need charges to perform attacks or advance defences." << endl << " You need 1 for a shot that can be blocked with a block as well as a" << "Spirit Block(this costs 1 as well)" << endl;
@@ -50,7 +50,7 @@ int main()
     {
 
 
-        /*
+        
         cout << "Player 1, choose your name: ";
         cin >> player1.name;
         PLAYERNAME++;
@@ -62,7 +62,7 @@ int main()
         {
             cout << "Player 2 you silly goose, choose another name: ";
             cin >> player2.name;
-        }*/
+        }
         PLAYERNAME++;
     }
 
