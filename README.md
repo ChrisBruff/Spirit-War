@@ -1,12 +1,10 @@
 # Spirit-War
-# System Requirements:
-Spirit Wars is a simple console-based game that runs on any system that supports C++ programming. You will need to have a C++ compiler installed on your system to compile and run the game.
 
-# How to Play:
+## How to Play:
 
 Compile the program: Open the "Spirit_Wars.cpp" file in your C++ compiler, compile the program, and run it.
 
-# Game Rules:
+## Game Rules:
 
 1. Each player starts with one life and zero charges.
 
@@ -24,7 +22,7 @@ Compile the program: Open the "Spirit_Wars.cpp" file in your C++ compiler, compi
 
 8. The game ends when one player loses all of their life.
 
-# Game Setup:
+## Game Setup:
 
 - Each player must enter their name to start the game.
 
