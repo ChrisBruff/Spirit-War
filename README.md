@@ -50,6 +50,6 @@ If one player loses all of their life, the game ends, and the other player wins.
 
 If both players survive, the program will randomly select the next player to make a move, and the game continues.
 
-#Exiting the Game:
+> Exiting the Game:
 
 You can exit the game at any time by closing the console window.
